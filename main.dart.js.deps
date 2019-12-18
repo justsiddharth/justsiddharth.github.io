@@ -74,6 +74,16 @@ file:///Users/siddj/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/platform-2.2.
 file:///Users/siddj/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/platform-2.2.1/lib/src/interface/local_platform.dart
 file:///Users/siddj/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/platform-2.2.1/lib/src/interface/platform.dart
 file:///Users/siddj/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/platform-2.2.1/lib/src/testing/fake_platform.dart
+file:///Users/siddj/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/provider-3.2.0/lib/provider.dart
+file:///Users/siddj/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/provider-3.2.0/lib/src/async_provider.dart
+file:///Users/siddj/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/provider-3.2.0/lib/src/change_notifier_provider.dart
+file:///Users/siddj/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/provider-3.2.0/lib/src/consumer.dart
+file:///Users/siddj/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/provider-3.2.0/lib/src/delegate_widget.dart
+file:///Users/siddj/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/provider-3.2.0/lib/src/listenable_provider.dart
+file:///Users/siddj/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/provider-3.2.0/lib/src/provider.dart
+file:///Users/siddj/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/provider-3.2.0/lib/src/proxy_provider.dart
+file:///Users/siddj/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/provider-3.2.0/lib/src/selector.dart
+file:///Users/siddj/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/provider-3.2.0/lib/src/value_listenable_provider.dart
 file:///Users/siddj/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/source_span-1.5.5/lib/source_span.dart
 file:///Users/siddj/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/source_span-1.5.5/lib/src/colors.dart
 file:///Users/siddj/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/source_span-1.5.5/lib/src/file.dart
@@ -691,6 +701,7 @@ file:///Users/siddj/Development/flutter/justsiddharth/.dart_tool/flutter_build/c
 file:///Users/siddj/Development/flutter/justsiddharth/.packages
 file:///Users/siddj/Development/flutter/justsiddharth/lib/about_page.dart
 file:///Users/siddj/Development/flutter/justsiddharth/lib/assets.dart
-file:///Users/siddj/Development/flutter/justsiddharth/lib/color_palette.dart
 file:///Users/siddj/Development/flutter/justsiddharth/lib/constants.dart
 file:///Users/siddj/Development/flutter/justsiddharth/lib/main.dart
+file:///Users/siddj/Development/flutter/justsiddharth/lib/palette.dart
+file:///Users/siddj/Development/flutter/justsiddharth/lib/theme_changer.dart
